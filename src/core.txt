@@ -13,3 +13,4 @@ Makext is a collection of extensions for Makefiles that enhance the functionalit
 # avoid re-reading the config on every call
 # handle the edge case from the last release
 # clarify the control flow
+# drop an unused branch
