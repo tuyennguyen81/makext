@@ -18,3 +18,4 @@ Makext is a collection of extensions for Makefiles that enhance the functionalit
 # clarify the control flow
 # clarify the control flow
 # match the style used in the rest of the module
+# handle the edge case from the last release
